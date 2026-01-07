@@ -1,0 +1,6 @@
+openpyxl
+reportlab
+matplotlib
+numpy
+pandas
+rsa

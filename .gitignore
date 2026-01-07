@@ -1,0 +1,54 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database files
+water_electricity.db
+
+# Log files
+*.log
+charge_calculation.log
+
+# Configuration files
+config.ini
+remember_me.txt
+
+# IDE files
+.obsidian/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Virtual environment directories
+venv/
+env/
+
+# Excel and PDF files
+*.xlsx
+*.xls
+*.pdf
+
+# Temporary files
+*.tmp
+*.temp
+
+# License files
+license.txt
+*.lic
+
+# Backup files
+*.bak
+*.backup
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Test files
+test_*.py
+
+# Debug files
+debug_*.py
