@@ -791,7 +791,7 @@
 
 - 技术支持邮箱：lymin_li@qq.com
 - 技术支持电话：18273949470
-- 官方网站：www.example.com
+- 官方网站：[https://github.com/rjxerp/sdcbsf](https://github.com/rjxerp/sdcbsf)
 
 我们将竭诚为您服务！
 
